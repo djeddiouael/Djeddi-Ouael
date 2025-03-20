@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub Profile!  
 
 ## 🧑‍🎓 About Me  
-👋 Hi! I’m **Ouael Djeddi**, a **Computer Systems** student at **M'hamed Bougara University of Boumerdès (UMBB), Algeria**. Passionate about software development, cybersecurity, and system administration, I constantly explore new technologies to improve my skills.  
+👋 Hi! I’m **Djeddi Ouael**, a **Computer Systems** student at **M'hamed Bougara University of Boumerdès (UMBB), Algeria**. Passionate about software development, cybersecurity, and system administration, I constantly explore new technologies to improve my skills.  
 
 🌱 Currently learning **Laravel** and improving my **Git/GitHub** skills to manage open-source and collaborative projects more efficiently.  
 
@@ -17,10 +17,5 @@
 
 ## 📫 Contact  
 💬 Feel free to reach out for projects, collaborations, or tech discussions!  
-<!-- 📧 Email: [your.email@example.com]  
-📌 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
-🌍 Portfolio: [your-website.com](https://your-website.com)  
--->
-
 
 ✨ _"Learning is a never-ending journey."_ ✨
