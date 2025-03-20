@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💻 Welcome to My GitHub Profile!  
 
-<!--
-**djeddiouael/djeddiouael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me  
+👋 Hi! I’m **Ouael Djeddi**, a **Computer Systems** student at **M'hamed Bougara University of Boumerdès (UMBB), Algeria**. Passionate about software development, cybersecurity, and system administration, I constantly explore new technologies to improve my skills.  
 
-Here are some ideas to get you started:
+🌱 Currently learning **Laravel** and improving my **Git/GitHub** skills to manage open-source and collaborative projects more efficiently.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Skills & Technologies  
+🔹 **Languages**: Python, PHP, JavaScript, C  
+🔹 **Frameworks**: Laravel, Bootstrap  
+🔹 **Operating Systems**: Linux (Fedora), Windows  
+🔹 **Tools & Others**: Git, Docker, MySQL  
+
+## 📌 Ongoing Projects  
+🔸 **Customizing and securing the Fedora system theme**  
+🔸 **Building a web project using Laravel**  
+
+## 📫 Contact  
+💬 Feel free to reach out for projects, collaborations, or tech discussions!  
+<!-- 📧 Email: [your.email@example.com]  
+📌 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+🌍 Portfolio: [your-website.com](https://your-website.com)  
 -->
+
+
+✨ _"Learning is a never-ending journey."_ ✨
