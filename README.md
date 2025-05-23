@@ -1,21 +1,22 @@
-# 💻 Welcome to My GitHub Profile!  
+💻 Welcome to My GitHub Profile!
+🧑‍🎓 About Me
+👋 Hi! I’m Djeddi Ouael, a Computer Systems graduate from M'hamed Bougara University of Boumerdès (UMBB), Algeria. I’m passionate about software development, cybersecurity, and system administration.
 
-## 🧑‍🎓 About Me  
-👋 Hi! I’m **Djeddi Ouael**, a **Computer Systems** student at **M'hamed Bougara University of Boumerdès (UMBB), Algeria**. Passionate about software development, cybersecurity, and system administration, I constantly explore new technologies to improve my skills.  
+I have hands-on experience with Laravel, React, Django, and Java for Android (Android Studio), and I’m always exploring new tech to grow my skills.
 
-🌱 Currently learning **Laravel** and improving my **Git/GitHub** skills to manage open-source and collaborative projects more efficiently.  
+🚀 Skills & Technologies
+🔹 Languages: PHP, Python, JavaScript, Java, C
+🔹 Frameworks: Laravel, React, Django, Bootstrap
+🔹 Mobile: Java (Android Studio)
+🔹 Systems: Linux (Fedora), Windows
+🔹 Tools: Git, GitHub, Docker, MySQL
 
-## 🚀 Skills & Technologies  
-🔹 **Languages**: Python, PHP, JavaScript, C  
-🔹 **Frameworks**: Laravel, Bootstrap  
-🔹 **Operating Systems**: Linux (Fedora), Windows  
-🔹 **Tools & Others**: Git, Docker, MySQL  
+📌 Current Focus
+🔸 Web app development with Laravel and React
+🔸 Securing and customizing Linux environments
 
-## 📌 Ongoing Projects  
-🔸 **Customizing and securing the Fedora system theme**  
-🔸 **Building a web project using Laravel**  
+📫 Contact
+💬 Open to collaborations, freelance work, or tech chats!
 
-## 📫 Contact  
-💬 Feel free to reach out for projects, collaborations, or tech discussions!  
+✨ Always learning, always building. ✨
 
-✨ _"Learning is a never-ending journey."_ ✨
