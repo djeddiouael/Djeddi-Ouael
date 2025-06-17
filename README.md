@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub Profile!
 
 ## 🧑‍🎓 About Me  
-👋 Hi! I’m **Djeddi Ouael**, a **Computer Systems graduate** from **M'hamed Bougara University of Boumerdès (UMBB), Algeria**. I’m passionate about **software development**, **cybersecurity**, and **system administration**.  
+👋 Hi! I’m **Djeddi Ouael**, a **Computer Systems graduate** from **M'hamed Bougara University of Boumerdès (UMBB), Algeria**. I’m passionate about **software development**, **cybersecurity**, et j’explore toujours de nouvelles technologies pour améliorer mes compétences.
 
 I have hands-on experience with **Laravel**, **React**, **Django**, and **Java for Android (Android Studio)**, and I’m always exploring new tech to grow my skills.
 
