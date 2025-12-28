@@ -2,25 +2,6 @@
 *Building intelligent, scalable solutions with AI, cloud, and data technologies*
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Streak](https://streak-stats.demolab.com/?user=djeddiouael&theme=dark&hide_border=true)
-  ![Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&theme=dark&show_icons=true&hide_border=true)
-  
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&theme=dark&layout=compact&hide_border=true)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark&no-frame=true)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=djeddiouael&theme=github&area=true&hide_border=true)---
-
----
 
 ## 👋 About Me
 
