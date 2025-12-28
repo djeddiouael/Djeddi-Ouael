@@ -1,10 +1,6 @@
 💻 **Djeddi Ouael — Applied AI & Data Engineering**  
 *Building intelligent, scalable solutions with AI, cloud, and data technologies*
 
-![Profile Views](https://komarev.com/ghpvc/?username=djeddiouael&color=blue)
-[![Open to Collaborations](https://img.shields.io/badge/Open%20to-Collaborations-blue)](mailto:djeddi.ouael.02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-djeddiouael-black)](https://github.com/djeddiouael)
-
 ---
 
 ## 📊 GitHub Statistics
