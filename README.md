@@ -5,20 +5,20 @@
 
 ## 📊 GitHub Statistics
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark)
+<!-- GitHub Streak avec cache -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark&cache_seconds=86400)
 
-<!-- GitHub General Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark&count_private=true)
+<!-- GitHub Stats avec cache -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark&count_private=true&cache_seconds=86400)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark&cache_seconds=86400)
 
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark)
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark&cache_seconds=86400)
 
 <!-- Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=djeddiouael&theme=react-dark&area=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=djeddiouael&theme=react-dark&area=true&cache_seconds=86400)
 
 ---
 
@@ -57,7 +57,6 @@ I'm **Djeddi Ouael**, a Master's student in **Applied Artificial Intelligence** 
 
 - 📧 **Email:** [djeddi.ouael.02@gmail.com](mailto:djeddi.ouael.02@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/djeddiouael](https://linkedin.com/in/djeddiouael)
-- 🐙 **GitHub:** [github.com/djeddiouael](https://github.com/djeddiouael)
 
 **I'm open to:**
 - 🔬 Research collaborations in AI/ML
