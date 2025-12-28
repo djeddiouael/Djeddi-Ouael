@@ -6,6 +6,7 @@
 ## 📊 GitHub Statistics
 
 <!-- GitHub Streak -->
+<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark&cache_seconds=86400)
 
 <!-- GitHub General Stats -->
@@ -18,7 +19,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark&cache_seconds=86400)
 
 <!-- Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=djeddiouael&theme=react-dark&area=true&cache_seconds=86400)
+![Activity Graph](https://activity-graph.vercel.app/graph?username=djeddiouael&theme=react-dark&area=true)
 
 ---
 
@@ -53,7 +54,7 @@ I'm **Djeddi Ouael**, a Master's student in **Applied Artificial Intelligence** 
 
 ---
 
-## 📫 Get in Touch
+📫 Get in Touch
 
 - 📧 **Email:** [djeddi.ouael.02@gmail.com](mailto:djeddi.ouael.02@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/djeddiouael](https://linkedin.com/in/djeddiouael)
@@ -66,16 +67,8 @@ I'm **Djeddi Ouael**, a Master's student in **Applied Artificial Intelligence** 
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 
 If you'd like to contribute to any project here, feel free to open an **issue** or a **pull request**. Please briefly describe your idea and the changes you propose.
 
 ---
-
-## ⚖️ License
-
-This repository's contents are available under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
-✨ *"Turning data into decisions, and algorithms into impact."* ✨
