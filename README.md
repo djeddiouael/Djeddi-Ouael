@@ -6,20 +6,19 @@
 ## 📊 GitHub Statistics
 
 <!-- GitHub Streak -->
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark)
 
 <!-- GitHub General Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark&count_private=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark&count_private=true)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark)
 
 <!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark&cache_seconds=86400)
+![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark)
 
-<!-- Activity Graph -->
-![Activity Graph](https://activity-graph.vercel.app/graph?username=djeddiouael&theme=react-dark&area=true)
+<!-- Activity Graph (Version alternative) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djeddiouael&theme=github-dark&area=true)
 
 ---
 
@@ -71,4 +70,3 @@ I'm **Djeddi Ouael**, a Master's student in **Applied Artificial Intelligence** 
 
 If you'd like to contribute to any project here, feel free to open an **issue** or a **pull request**. Please briefly describe your idea and the changes you propose.
 
----
