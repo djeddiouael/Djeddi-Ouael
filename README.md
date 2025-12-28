@@ -2,23 +2,26 @@
 *Building intelligent, scalable solutions with AI, cloud, and data technologies*
 
 ---
-
 ## 📊 GitHub Statistics
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark)
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark&row=2&column=4)
 
-<!-- GitHub General Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark&count_private=true)
+</div>
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark)
+---
 
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=djeddiouael&theme=dark)
+### 🌱 Contribution Graph  
+*Votre parcillon de contributions apparaîtra ici au fur et à mesure de vos commits !*
 
-<!-- Activity Graph (Version alternative) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djeddiouael&theme=github-dark&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djeddiouael&theme=github-dark&area=true&hide_border=true)
+
+> 💡 *Conseil : Faites votre premier commit pour voir votre graphique s'animer !*
 
 ---
 
