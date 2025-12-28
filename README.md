@@ -1,76 +1,28 @@
-💻 Djeddi Ouael — Applied AI & Data Engineering
+# Salut, je suis @djeddiouael
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=radical)](https://github.com/djeddiouael)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=radical)](https://github.com/djeddiouael)
+Bienvenue sur mon profil GitHub ! Voici un aperçu de mon activité et de mes statistiques.
 
-👋 About Me
-I'm **Djeddi Ouael**, a Master's student in Applied Artificial Intelligence at M'hamed Bougara University of Boumerdès (UMBB), Algeria. I focus on building intelligent, scalable solutions that combine AI, data engineering, and cloud technologies.
+## À propos
+- Développeur passionné par le web et les technologies open-source.
+- J'aime apprendre et partager mes projets.
 
-Areas of interest:
-- Machine learning & deep learning
-- Data engineering & big data pipelines
-- Cloud-based model deployment & MLOps
+## Statistiques GitHub
 
----
+<!-- GitHub stats cards -->
 
-🚀 Technical Skills
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeddiouael&theme=dark)
 
-🤖 AI & Data Science
-- Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch  
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn  
-- Model Deployment & MLOps: ONNX, Docker, FastAPI
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djeddiouael&layout=compact&theme=dark)
 
-☁️ Cloud & Data Engineering
-- Cloud: AWS, Azure (fundamentals)  
-- Big Data: Apache Spark, Hadoop  
-- Databases: PostgreSQL, MySQL, SQLite, MongoDB
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeddiouael&show_icons=true&theme=dark&count_private=true)
 
-💻 Software Development
-- Languages: Python, Java, JavaScript, PHP, C  
-- Frameworks: Laravel, Django, React, Bootstrap  
-- Tools: Git, Docker, Jupyter, Linux, VS Code
+
+## Contact
+- Email: (ajoutez votre email ici)
+- Twitter: (ajoutez votre handle ici)
 
 ---
 
-📌 Featured Projects
+Vous pouvez personnaliser le thème en changeant le paramètre `theme` dans les URLs (`dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
-🎓 Exam Schedule Optimizer
-Automated university exam scheduling system that generates conflict-free timetables using constraint optimization.
-- Tech: Python, PostgreSQL, Streamlit, Bootstrap
-- Features: Automated scheduling, multi-user dashboard, real-time conflict detection
-
-🔍 AI-Powered Energy Consumption Prediction
-Comparative study of ML models (KNN, ANN, SVR) to predict building heating and cooling loads.
-- Tech: Python, Scikit-learn, TensorFlow, Matplotlib
-
-☁️ Hybrid Cloud Architecture for Facial Recognition
-Conceptual design of a multi-tier cloud infrastructure (IaaS → PaaS → Edge) for scalable, low-latency AI inference.
-- Concepts: Edge Computing, Cloud Orchestration, Distributed Systems
-
-(Replace the above project descriptions with links or repos when available.)
-
----
-
-📫 Get in Touch
-
-- Email: djeddi.ouael.02@gmail.com
-- LinkedIn: linkedin.com/in/djeddiouael
-  
-I'm open to:
-- Research collaborations in AI/ML  
-- Internships in Data Engineering or Cloud AI  
-- Open-source contributions
-
----
-
-🤝 Contributing
-If you'd like to contribute to any project here, open an issue or a pull request. Briefly describe your idea and the changes you propose.
-
----
-
-⚖️ License
-This repository's contents are available under the MIT License — see LICENSE for details. (Adjust if you prefer a different license.)
-
----
-
-✨ "Turning data into decisions, and algorithms into impact." ✨
+Si vous voulez que j'insère d'autres cartes (par exemple WakaTime, commits récents, ou badges de projets), dites-moi lesquelles et je les ajoute.
